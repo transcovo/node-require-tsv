@@ -1,0 +1,28 @@
+{
+  "name": "node-require-tsv",
+  "version": "1.0.0",
+  "description": "Hooks into require to allow requiring tsv files",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:transcovo/node-require-tsv.git"
+  },
+  "keywords": [
+    "node",
+    "require",
+    "tsv"
+  ],
+  "author": "Samuel Rossille",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transcovo/node-require-tsv/issues"
+  },
+  "homepage": "https://github.com/transcovo/node-require-tsv",
+  "devDependencies": {
+    "mocha": "^2.3.0",
+    "should": "^7.1.0"
+  }
+}
