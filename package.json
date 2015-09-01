@@ -1,6 +1,6 @@
 {
   "name": "node-require-tsv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hooks into require to allow requiring tsv files",
   "main": "index.js",
   "scripts": {
